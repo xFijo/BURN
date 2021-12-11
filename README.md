@@ -1,1 +1,3 @@
-# BURN
+# BURN!
+
+burn, burn, burn

@@ -6,6 +6,7 @@ def clear():
 clear()
 
 def burn():
+    os.system("Title BURN! BURN! BURN!")
     print(crayons.red('BURN! BURN! BURN!')* 500000)
 
 burn()
